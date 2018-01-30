@@ -7,7 +7,8 @@ Bibliography and notes for attempting an Emacs-based paper reading process.  Bas
 
 My initial `.emacs` additions for this are as follows:
 
-```(setq org-ref-bibliography-notes "~/Documents/papers/notes/notes.org"
+```
+(setq org-ref-bibliography-notes "~/Documents/papers/notes/notes.org"
       org-ref-default-bibliography '("~/Documents/papers/references/references.bib")
       org-ref-pdf-directory "~/Documents/papers/pdfs/")
 
