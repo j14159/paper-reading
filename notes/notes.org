@@ -1,0 +1,117 @@
+* The process
+Refer to:
+- https://www.reddit.com/r/emacs/comments/4gudyw/help_me_with_my_orgmode_workflow_for_notetaking/
+- https://codearsonist.com/reading-for-programmers
+
+* Typing
+** Incremental
+*** TODO 2015 - Type-Driven Incremental Semantic Parsing with Polymorphism
+ :PROPERTIES:
+  :Custom_ID: Zhao_2015
+  :AUTHOR: Zhao \& Huang
+  :JOURNAL: Proceedings of the 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies
+  :YEAR: 2015
+  :VOLUME: 
+  :PAGES: 
+  :DOI: 10.3115/v1/n15-1162
+  :URL: http://dx.doi.org/10.3115/v1/n15-1162
+ :INTERLEAVE_PDF: ~/Documents/papers/pdfs/N15-1162.pdf
+ :END:
+
+cite:Zhao_2015
+
+I think this requires types up front.
+
+
+*** TODO 1991 - Incremental polymorphism
+ :PROPERTIES:
+  :Custom_ID: aditya91_increm
+  :AUTHOR: Aditya \& Nikhil
+  :JOURNAL: 
+  :YEAR: 1991
+  :VOLUME: 
+  :PAGES: 379--405
+  :DOI: 
+  :URL: 
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/2329610_Incremental-Polymorphism.pdf
+ :END:
+
+cite:aditya91_increm
+
+*** TODO 2015 - A co-contextual formulation of type rules and its application to incremental type checking
+ :PROPERTIES:
+  :Custom_ID: erdweg2015co
+  :AUTHOR: Erdweg, Bra\vcevac, Kuci, Krebs \& Mezini
+  :JOURNAL: 
+  :YEAR: 2015
+  :VOLUME: 50
+  :PAGES: 880--897
+  :DOI: 
+  :URL: 
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/cocontextual-type-checking.pdf
+ :END:
+
+cite:erdweg2015co
+
+
+** Algebraic, Decidable Inference
+*** TODO 2016 - Polymorphism, Subtyping, and Type Inference in Mlsub
+ :PROPERTIES:
+  :Custom_ID: DolanMycroft_2016
+  :AUTHOR: Dolan
+  :JOURNAL:  
+  :YEAR: 2016
+  :VOLUME: 
+  :PAGES: 
+  :DOI: 
+  :URL: 
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/mlsub-preprint.pdf
+ :END:      
+
+cite:DolanMycroft_2016
+
+
+** TODO 2012 - Type-Directed Completion of Partial Expressions
+ :PROPERTIES:
+  :Custom_ID: perelman12_type_direc_compl_partial_expres
+  :AUTHOR: Perelman, Gulwani, Ball \& Grossman
+  :JOURNAL: 
+  :YEAR: 2012
+  :VOLUME: 
+  :PAGES: 
+  :DOI: 
+  :URL: https://www.microsoft.com/en-us/research/publication/type-directed-completion-partial-expressions/
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/pldi12-type-directed-completion.pdf
+ :END:
+
+cite:perelman12_type_direc_compl_partial_expres
+
+** TODO 2015 - A type-directed approach to program repair
+ :PROPERTIES:
+  :Custom_ID: reinking15
+  :AUTHOR: Reinking \& Piskac
+  :JOURNAL: 
+  :YEAR: 2015
+  :VOLUME: 
+  :PAGES: 511--517
+  :DOI: 
+  :URL: 
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/ReinkingPiskac2015Winston.pdf
+ :END:
+
+cite:reinking15
+
+** TODO 1986 - Using dependent types to express modular structure
+ :PROPERTIES:
+  :Custom_ID: macqueen1986using
+  :AUTHOR: MacQueen
+  :JOURNAL: 
+  :YEAR: 1986
+  :VOLUME: 
+  :PAGES: 277--286
+  :DOI: 
+  :URL: 
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/10.1.1.84.7792.pdf
+ :END:
+
+cite:macqueen1986using
