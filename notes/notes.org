@@ -1,8 +1,3 @@
-* The process
-Refer to:
-- https://www.reddit.com/r/emacs/comments/4gudyw/help_me_with_my_orgmode_workflow_for_notetaking/
-- https://codearsonist.com/reading-for-programmers
-
 * Typing
 ** Incremental
 *** TODO 2015 - Type-Driven Incremental Semantic Parsing with Polymorphism
@@ -115,3 +110,99 @@ cite:reinking15
  :END:
 
 cite:macqueen1986using
+
+* Data
+
+** TODO 2015 - The Dataflow Model: A Practical Approach To Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-Of-Order Data Processing
+ :PROPERTIES:
+  :Custom_ID: akidau15_dataf_model
+  :AUTHOR: Tyler Akidau {\it et al.}
+  :JOURNAL: Proceedings of the VLDB Endowment
+  :YEAR: 2015
+  :VOLUME: 8
+  :PAGES: 1792-1803
+  :DOI: 
+  :URL: 
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/p1792-Akidau.pdf
+ :END:
+
+cite:akidau15_dataf_model
+
+[[https://medium.com/db-journal/readings-in-stream-processing-675210ad9eb2][Leo wrote a post about this]]
+
+** TODO 2013 - Naiad: A Timely Dataflow System
+ :PROPERTIES:
+  :Custom_ID: murray13_naiad
+  :AUTHOR: Murray, McSherry, Isaacs, Isard, Barham \& Abadi
+  :JOURNAL: 
+  :YEAR: 2013
+  :VOLUME: 
+  :PAGES: 
+  :DOI: 
+  :URL: https://www.microsoft.com/en-us/research/publication/naiad-a-timely-dataflow-system-2/
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/naiad.pdf
+ :END:
+
+cite:murray13_naiad
+
+** TODO 2013 - Differential dataflow
+ :PROPERTIES:
+  :Custom_ID: mcsherry13_differ
+  :AUTHOR: McSherry, Murray, Isaacs \& Isard
+  :JOURNAL: 
+  :YEAR: 2013
+  :VOLUME: 
+  :PAGES: 
+  :DOI: 
+  :URL: https://www.microsoft.com/en-us/research/publication/differential-dataflow/
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/differentialdataflow.pdf
+ :END:
+
+cite:mcsherry13_differ
+
+
+** TODO 2016 - The Snowflake Elastic Data Warehouse
+ :PROPERTIES:
+  :Custom_ID: dageville16_snowf_elast_data_wareh
+  :AUTHOR: Dageville {\it et al.}
+  :JOURNAL: 
+  :YEAR: 2016
+  :VOLUME: 
+  :PAGES: 215--226
+  :DOI: 10.1145/2882903.2903741
+  :URL: https://doi.org/10.1145/2882903.2903741
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/Snowflake_SIGMOD.pdf
+ :END:
+
+cite:dageville16_snowf_elast_data_wareh
+
+** TODO 2007 - An Ad Omnia Approach to Defining and Achieving Private Data Analysis
+ :PROPERTIES:
+  :Custom_ID: dwork07_ad_omnia_approac_defin_achiev
+  :AUTHOR: Dwork
+  :JOURNAL: 
+  :YEAR: 2007
+  :VOLUME: 4890
+  :PAGES: 1-13
+  :DOI: 
+  :URL: https://www.microsoft.com/en-us/research/publication/an-ad-omnia-approach-to-defining-and-achieving-private-data-analysis/
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/dwork_pinkdd.pdf
+ :END:
+
+cite:dwork07_ad_omnia_approac_defin_achiev
+
+** TODO 2005 - Semantic-Integration Research in the Database Community
+ :PROPERTIES:
+  :Custom_ID: doan05_seman_integ_resear_datab_commun
+  :AUTHOR: Doan \& Halevy
+  :JOURNAL: AI Mag.
+  :YEAR: 2005
+  :VOLUME: 26
+  :PAGES: 83--94
+  :DOI: 
+  :URL: http://dl.acm.org/citation.cfm?id=1090488.1090497
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/1801-1797-1-PB.pdf
+ :END:
+
+cite:doan05_seman_integ_resear_datab_commun
+
