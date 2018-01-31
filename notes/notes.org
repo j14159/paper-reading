@@ -111,6 +111,7 @@ cite:reinking15
 
 cite:macqueen1986using
 
+
 * Data
 
 ** TODO 2015 - The Dataflow Model: A Practical Approach To Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-Of-Order Data Processing
@@ -206,3 +207,80 @@ cite:dwork07_ad_omnia_approac_defin_achiev
 
 cite:doan05_seman_integ_resear_datab_commun
 
+
+** TODO 2017 - Towards Practical Differential Privacy for Sql Queries
+ :PROPERTIES:
+  :Custom_ID: johnson17_towar_pract_differ_privac_sql_queries
+  :AUTHOR: Noah Johnson, Joseph Near \& Dawn Song
+  :JOURNAL: 
+  :YEAR: 2017
+  :VOLUME: 
+  :PAGES: 
+  :DOI: 
+  :URL: 
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/p526-johnson.pdf
+ :END:
+
+cite:johnson17_towar_pract_differ_privac_sql_queries
+
+** TODO 2017 - Concurrent Log-Structured Memory for Many-Core Key-Value Stores
+ :PROPERTIES:
+  :Custom_ID: alexander17_concur_log_struc_memor_many
+  :AUTHOR: Alexander Merritt
+  :JOURNAL: 
+  :YEAR: 2017
+  :VOLUME: 
+  :PAGES: 
+  :DOI: 
+  :URL: http://www.vldb.org/pvldb/vol11/p458-merritt.pdf
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/p458-merritt.pdf
+ :END:
+
+cite:alexander17_concur_log_struc_memor_many
+ 
+Mention of fragmentation concerns and effective use of memory is interesting.
+
+** TODO 2017 - Cardinality Estimation: An Experimental Survey
+ :PROPERTIES:
+  :Custom_ID: harmouch17_cardin_estim
+  :AUTHOR: Hazar Harmouch \& Felix Naumann
+  :JOURNAL: 
+  :YEAR: 2017
+  :VOLUME: 
+  :PAGES: 
+  :DOI: 
+  :URL: http://www.vldb.org/pvldb/vol11/p499-harmouch.pdf
+   :INTERLEAVE_PDF: ~/Documents/papers/pdfs/p499-harmouch.pdf
+ :END:
+
+cite:harmouch17_cardin_estim
+
+** TODO 2018 - BzTree: A High-Performance Latch-free Range Index for Non-Volatile Memory
+ :PROPERTIES:
+  :Custom_ID: arulraj18_bztree
+  :AUTHOR: Joy Arulraj
+  :JOURNAL: 
+  :YEAR: 2018
+  :VOLUME: 
+  :PAGES: 
+  :DOI:
+  :URL: http://www.vldb.org/pvldb/vol11/p553-arulraj.pdf
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/p553-arulraj.pdf
+ :END:
+
+cite:arulraj18_bztree
+
+** TODO 2018 - Theoretically Optimal and Empirically Efficient R-trees with Strong Parallelizability
+ :PROPERTIES:
+  :Custom_ID: jianzhong18_theor_optim_empir_effic_r_stron_paral
+  :AUTHOR: Jianzhong Qi \& Rui Zhang
+  :JOURNAL: 
+  :YEAR: 2018
+  :VOLUME: 
+  :PAGES: 
+  :DOI: 
+  :URL: http://www.vldb.org/pvldb/vol11/p621-qi.pdf
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/p621-qi.pdf
+ :END:
+
+cite:jianzhong18_theor_optim_empir_effic_r_stron_paral
