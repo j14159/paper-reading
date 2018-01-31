@@ -284,3 +284,20 @@ cite:arulraj18_bztree
  :END:
 
 cite:jianzhong18_theor_optim_empir_effic_r_stron_paral
+
+** TODO 2018 - Contention-Aware Lock Scheduling for Transactional Databases
+ :PROPERTIES:
+  :Custom_ID: boyu18_conten_aware_lock_sched_trans_datab
+  :AUTHOR: Boyu Tian
+  :JOURNAL: 
+  :YEAR: 2018
+  :VOLUME: 
+  :PAGES: 
+  :DOI: 
+  :URL: http://www.vldb.org/pvldb/vol11/p648-tian.pdf
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/p648-tian.pdf
+ :END:
+
+cite:boyu18_conten_aware_lock_sched_trans_datab
+
+*** TODO References for other places lock scheduling is used?
