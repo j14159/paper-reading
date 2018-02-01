@@ -111,10 +111,27 @@ cite:reinking15
 
 cite:macqueen1986using
 
+** TODO 2017 - On Polymorphic Sessions and Functions: A Tale of Two (Fully Abstract) Encodings
+ :PROPERTIES:
+  :Custom_ID: toninho17_polym_session_funct
+  :AUTHOR: Bernardo Toninho \& Nobuko Yoshida
+  :JOURNAL: 
+  :YEAR: 2017
+  :VOLUME: 
+  :PAGES: 
+  :DOI: 
+  :URL: https://www.doc.ic.ac.uk/~bparente/polyfun.pdf
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/polyfun.pdf
+ :END:
+
+cite:toninho17_polym_session_funct
+
+Via [[https://twitter.com/graydon_pub][Graydon Hoare's Twitter feed]]
 
 * Data
 
-** TODO 2015 - The Dataflow Model: A Practical Approach To Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-Of-Order Data Processing
+** Data Flow
+*** TODO 2015 - The Dataflow Model: A Practical Approach To Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-Of-Order Data Processing
  :PROPERTIES:
   :Custom_ID: akidau15_dataf_model
   :AUTHOR: Tyler Akidau {\it et al.}
@@ -131,7 +148,7 @@ cite:akidau15_dataf_model
 
 [[https://medium.com/db-journal/readings-in-stream-processing-675210ad9eb2][Leo wrote a post about this]]
 
-** TODO 2013 - Naiad: A Timely Dataflow System
+*** TODO 2013 - Naiad: A Timely Dataflow System
  :PROPERTIES:
   :Custom_ID: murray13_naiad
   :AUTHOR: Murray, McSherry, Isaacs, Isard, Barham \& Abadi
@@ -146,7 +163,7 @@ cite:akidau15_dataf_model
 
 cite:murray13_naiad
 
-** TODO 2013 - Differential dataflow
+*** TODO 2013 - Differential dataflow
  :PROPERTIES:
   :Custom_ID: mcsherry13_differ
   :AUTHOR: McSherry, Murray, Isaacs \& Isard
@@ -161,8 +178,37 @@ cite:murray13_naiad
 
 cite:mcsherry13_differ
 
+** Privacy/Information Hiding
+*** TODO 2007 - An Ad Omnia Approach to Defining and Achieving Private Data Analysis
+ :PROPERTIES:
+  :Custom_ID: dwork07_ad_omnia_approac_defin_achiev
+  :AUTHOR: Dwork
+  :JOURNAL: 
+  :YEAR: 2007
+  :VOLUME: 4890
+  :PAGES: 1-13
+  :DOI: 
+  :URL: https://www.microsoft.com/en-us/research/publication/an-ad-omnia-approach-to-defining-and-achieving-private-data-analysis/
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/dwork_pinkdd.pdf
+ :END:
 
-** TODO 2016 - The Snowflake Elastic Data Warehouse
+cite:dwork07_ad_omnia_approac_defin_achiev
+*** TODO 2017 - Towards Practical Differential Privacy for Sql Queries
+ :PROPERTIES:
+  :Custom_ID: johnson17_towar_pract_differ_privac_sql_queries
+  :AUTHOR: Noah Johnson, Joseph Near \& Dawn Song
+  :JOURNAL: 
+  :YEAR: 2017
+  :VOLUME: 
+  :PAGES: 
+  :DOI: 
+  :URL: 
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/p526-johnson.pdf
+ :END:
+
+cite:johnson17_towar_pract_differ_privac_sql_queries
+** General
+*** TODO 2016 - The Snowflake Elastic Data Warehouse
  :PROPERTIES:
   :Custom_ID: dageville16_snowf_elast_data_wareh
   :AUTHOR: Dageville {\it et al.}
@@ -177,22 +223,7 @@ cite:mcsherry13_differ
 
 cite:dageville16_snowf_elast_data_wareh
 
-** TODO 2007 - An Ad Omnia Approach to Defining and Achieving Private Data Analysis
- :PROPERTIES:
-  :Custom_ID: dwork07_ad_omnia_approac_defin_achiev
-  :AUTHOR: Dwork
-  :JOURNAL: 
-  :YEAR: 2007
-  :VOLUME: 4890
-  :PAGES: 1-13
-  :DOI: 
-  :URL: https://www.microsoft.com/en-us/research/publication/an-ad-omnia-approach-to-defining-and-achieving-private-data-analysis/
-  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/dwork_pinkdd.pdf
- :END:
-
-cite:dwork07_ad_omnia_approac_defin_achiev
-
-** TODO 2005 - Semantic-Integration Research in the Database Community
+*** TODO 2005 - Semantic-Integration Research in the Database Community
  :PROPERTIES:
   :Custom_ID: doan05_seman_integ_resear_datab_commun
   :AUTHOR: Doan \& Halevy
@@ -207,23 +238,7 @@ cite:dwork07_ad_omnia_approac_defin_achiev
 
 cite:doan05_seman_integ_resear_datab_commun
 
-
-** TODO 2017 - Towards Practical Differential Privacy for Sql Queries
- :PROPERTIES:
-  :Custom_ID: johnson17_towar_pract_differ_privac_sql_queries
-  :AUTHOR: Noah Johnson, Joseph Near \& Dawn Song
-  :JOURNAL: 
-  :YEAR: 2017
-  :VOLUME: 
-  :PAGES: 
-  :DOI: 
-  :URL: 
-  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/p526-johnson.pdf
- :END:
-
-cite:johnson17_towar_pract_differ_privac_sql_queries
-
-** TODO 2017 - Concurrent Log-Structured Memory for Many-Core Key-Value Stores
+*** TODO 2017 - Concurrent Log-Structured Memory for Many-Core Key-Value Stores
  :PROPERTIES:
   :Custom_ID: alexander17_concur_log_struc_memor_many
   :AUTHOR: Alexander Merritt
@@ -240,7 +255,7 @@ cite:alexander17_concur_log_struc_memor_many
  
 Mention of fragmentation concerns and effective use of memory is interesting.
 
-** TODO 2017 - Cardinality Estimation: An Experimental Survey
+*** TODO 2017 - Cardinality Estimation: An Experimental Survey
  :PROPERTIES:
   :Custom_ID: harmouch17_cardin_estim
   :AUTHOR: Hazar Harmouch \& Felix Naumann
@@ -255,7 +270,22 @@ Mention of fragmentation concerns and effective use of memory is interesting.
 
 cite:harmouch17_cardin_estim
 
-** TODO 2018 - BzTree: A High-Performance Latch-free Range Index for Non-Volatile Memory
+**** TODO 2006 - Bitmap Algorithms for Counting Active Flows on High-Speed Links
+ :PROPERTIES:
+  :Custom_ID: estan06_bitmap_algor_count_activ_flows
+  :AUTHOR: Cristian Estan, George Varghese \& Michael Fisk
+  :JOURNAL: {IEEE/ACM} Trans. Netw.
+  :YEAR: 2006
+  :VOLUME: 14
+  :PAGES: 925-937
+  :DOI: 10.1145/1217709
+  :URL: https://doi.org/10.1145/1217709
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/countingbitmaps.pdf
+ :END:
+
+cite:estan06_bitmap_algor_count_activ_flows
+
+*** TODO 2018 - BzTree: A High-Performance Latch-free Range Index for Non-Volatile Memory
  :PROPERTIES:
   :Custom_ID: arulraj18_bztree
   :AUTHOR: Joy Arulraj
@@ -270,7 +300,7 @@ cite:harmouch17_cardin_estim
 
 cite:arulraj18_bztree
 
-** TODO 2018 - Theoretically Optimal and Empirically Efficient R-trees with Strong Parallelizability
+*** TODO 2018 - Theoretically Optimal and Empirically Efficient R-trees with Strong Parallelizability
  :PROPERTIES:
   :Custom_ID: jianzhong18_theor_optim_empir_effic_r_stron_paral
   :AUTHOR: Jianzhong Qi \& Rui Zhang
@@ -285,7 +315,7 @@ cite:arulraj18_bztree
 
 cite:jianzhong18_theor_optim_empir_effic_r_stron_paral
 
-** TODO 2018 - Contention-Aware Lock Scheduling for Transactional Databases
+*** TODO 2018 - Contention-Aware Lock Scheduling for Transactional Databases
  :PROPERTIES:
   :Custom_ID: boyu18_conten_aware_lock_sched_trans_datab
   :AUTHOR: Boyu Tian
@@ -300,4 +330,4 @@ cite:jianzhong18_theor_optim_empir_effic_r_stron_paral
 
 cite:boyu18_conten_aware_lock_sched_trans_datab
 
-*** TODO References for other places lock scheduling is used?
+**** TODO References for other places lock scheduling is used?
