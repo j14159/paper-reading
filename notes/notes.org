@@ -31,7 +31,7 @@ I think this requires types up front.
   :INTERLEAVE_PDF: ~/Documents/papers/pdfs/2329610_Incremental-Polymorphism.pdf
  :END:
 
-cite:aditya91_increm
+cite:aDitya91_increm
 
 *** TODO 2015 - A co-contextual formulation of type rules and its application to incremental type checking
  :PROPERTIES:
@@ -331,3 +331,33 @@ cite:jianzhong18_theor_optim_empir_effic_r_stron_paral
 cite:boyu18_conten_aware_lock_sched_trans_datab
 
 **** TODO References for other places lock scheduling is used?
+
+** TODO 2006 - Linear Abadi and Plotkin Logic
+ :PROPERTIES:
+  :Custom_ID: DBLP:journals/corr/abs-cs-0611004
+  :AUTHOR: Lars Birkedal, Rasmus Ejlers M\ogelberg \& Rasmus Lerchedahl Petersen
+  :JOURNAL: CoRR
+  :YEAR: 2006
+  :VOLUME: abs/cs/0611004
+  :PAGES: 
+  :DOI: 
+  :URL: http://arxiv.org/abs/cs/0611004
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/0611004.pdf
+ :END:
+
+cite:DBLP:journals/corr/abs-cs-0611004
+
+** TODO 1993 - History of Programming Languages Conference (HOPL-II), Preprints, Cambridge, Massachusetts, USA, April 20-23, 1993
+ :PROPERTIES:
+  :Custom_ID: DBLP:conf/hopl/1993
+  :AUTHOR: John Lee \& Jean Sammet
+  :JOURNAL: 
+  :YEAR: 1993
+  :VOLUME: 
+  :PAGES: 
+  :DOI: 
+  :URL: http://dl.acm.org/citation.cfm?id=154766
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/birth-of-prolog.pdf
+ :END:
+
+cite:DBLP:conf/hopl/1993
