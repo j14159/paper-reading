@@ -65,6 +65,21 @@ cite:erdweg2015co
 
 cite:DolanMycroft_2016
 
+*** TODO - 1ML – Core and Modules United (F-ing First-Class Modules)
+ :PROPERTIES:
+  :Custom_ID: rossberg
+  :AUTHOR: Andreas Rossberg
+  :JOURNAL: 
+  :YEAR: 
+  :VOLUME: 
+  :PAGES: 
+  :DOI: 
+  :URL: https://people.mpi-sws.org/~rossberg/1ml/1ml-jfp-draft.pdf
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/1ml-jfp-draft.pdf
+ :END:      
+
+cite:rossberg
+
 
 ** TODO 2012 - Type-Directed Completion of Partial Expressions
  :PROPERTIES:
@@ -128,6 +143,21 @@ cite:toninho17_polym_session_funct
 
 Via [[https://twitter.com/graydon_pub][Graydon Hoare's Twitter feed]]
 
+
+** TODO 2014 - Counter-Factual Typing for Debugging Type Error
+ :PROPERTIES:
+  :Custom_ID: chen_erwig_2014
+  :AUTHOR: Sheng Chen
+  :JOURNAL: 
+  :YEAR: 2014
+  :VOLUME: 
+  :PAGES: 
+  :DOI: 
+  :URL: http://web.engr.orst.edu/~erwig/papers/CF-Typing_POPL14.pdf
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/CF-Typing_POPL14.pdf
+ :END:
+
+cite:chen_erwig_2014
 * Data
 
 ** Data Flow
@@ -361,3 +391,5 @@ cite:DBLP:journals/corr/abs-cs-0611004
  :END:
 
 cite:DBLP:conf/hopl/1993
+
+
