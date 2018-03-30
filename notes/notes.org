@@ -392,4 +392,19 @@ cite:DBLP:journals/corr/abs-cs-0611004
 
 cite:DBLP:conf/hopl/1993
 
+* Software Engineering
 
+** TODO 2001 - Robustness in complex systems
+ :PROPERTIES:
+  :Custom_ID: gribble2001robustness
+  :AUTHOR: Gribble
+  :JOURNAL: 
+  :YEAR: 2001
+  :VOLUME: 
+  :PAGES: 21--26
+  :DOI: 
+  :URL: 
+ :END:
+
+cite:gribble2001robustness
+>>>>>>> Stashed changes
