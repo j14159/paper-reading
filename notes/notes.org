@@ -408,3 +408,36 @@ cite:DBLP:conf/hopl/1993
 
 cite:gribble2001robustness
 >>>>>>> Stashed changes
+
+* Databases
+
+** TODO 2011 - Efficiently Compiling Efficient Query Plans for Modern Hardware
+ :PROPERTIES:
+  :Custom_ID: Neumann:2011:ECE:2002938.2002940
+  :AUTHOR: Neumann
+  :JOURNAL: Proc. VLDB Endow.
+  :YEAR: 2011
+  :VOLUME: 4
+  :PAGES: 539--550
+  :DOI: 10.14778/2002938.2002940
+  :URL: http://dx.doi.org/10.14778/2002938.2002940
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/p539-neumann.pdf
+ :END:
+
+cite:Neumann:2011:ECE:2002938.2002940
+
+
+** TODO 2014 - Building Efficient Query Engines in a High-level Language
+ :PROPERTIES:
+  :Custom_ID: Klonatos:2014:BEQ:2732951.2732959
+  :AUTHOR: Klonatos, Koch, Rompf \& Chafi
+  :JOURNAL: Proc. VLDB Endow.
+  :YEAR: 2014
+  :VOLUME: 7
+  :PAGES: 853--864
+  :DOI: 10.14778/2732951.2732959
+  :URL: http://dx.doi.org/10.14778/2732951.2732959
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/p853-klonatos.pdf
+ :END:
+
+cite:Klonatos:2014:BEQ:2732951.2732959
