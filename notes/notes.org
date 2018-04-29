@@ -156,8 +156,24 @@ Via [[https://twitter.com/graydon_pub][Graydon Hoare's Twitter feed]]
   :URL: http://web.engr.orst.edu/~erwig/papers/CF-Typing_POPL14.pdf
   :INTERLEAVE_PDF: ~/Documents/papers/pdfs/CF-Typing_POPL14.pdf
  :END:
-
 cite:chen_erwig_2014
+
+** TODO 2014 - Extending Type Inference to Variational Programs
+ :PROPERTIES:
+  :Custom_ID: Chen:2014:ETI:2597180.2518190
+  :AUTHOR: Chen, Erwig \& Walkingshaw
+  :JOURNAL: ACM Trans. Program. Lang. Syst.
+  :YEAR: 2014
+  :VOLUME: 36
+  :PAGES: 1:1--1:54
+  :DOI: 10.1145/2518190
+  :URL: http://doi.acm.org/10.1145/2518190
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/VLC-TypeSystem.pdf
+ :END:
+
+cite:Chen:2014:ETI:2597180.2518190
+[[pdf-view:~/Documents/papers/pdfs/VLC-TypeSystem.pdf]]
+
 * Data
 
 ** Data Flow
@@ -393,7 +409,6 @@ cite:DBLP:journals/corr/abs-cs-0611004
 cite:DBLP:conf/hopl/1993
 
 * Software Engineering
-
 ** TODO 2001 - Robustness in complex systems
  :PROPERTIES:
   :Custom_ID: gribble2001robustness
@@ -404,10 +419,9 @@ cite:DBLP:conf/hopl/1993
   :PAGES: 21--26
   :DOI: 
   :URL: 
- :END:
+ :END:      
 
 cite:gribble2001robustness
->>>>>>> Stashed changes
 
 * Databases
 
@@ -441,3 +455,19 @@ cite:Neumann:2011:ECE:2002938.2002940
  :END:
 
 cite:Klonatos:2014:BEQ:2732951.2732959
+
+* Distributed Systems
+** TODO 1985 - Distributed Snapshots: Determining Global States of a Distributed System
+ :PROPERTIES:
+  :Custom_ID: distributed-snapshots-determining-global-states-distributed-system
+  :AUTHOR: Chandy \& Lamport
+  :JOURNAL: ACM Transactions on Computer Systems
+  :YEAR: 1985
+  :VOLUME: 3/1
+  :PAGES: 63-75
+  :DOI: 
+  :URL: https://www.microsoft.com/en-us/research/publication/distributed-snapshots-determining-global-states-distributed-system/
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/chandy.pdf
+ :END:
+
+cite:distributed-snapshots-determining-global-states-distributed-system
