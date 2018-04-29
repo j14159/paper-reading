@@ -48,39 +48,6 @@ cite:aDitya91_increm
 
 cite:erdweg2015co
 
-
-** Algebraic, Decidable Inference
-*** TODO 2016 - Polymorphism, Subtyping, and Type Inference in Mlsub
- :PROPERTIES:
-  :Custom_ID: DolanMycroft_2016
-  :AUTHOR: Dolan
-  :JOURNAL:  
-  :YEAR: 2016
-  :VOLUME: 
-  :PAGES: 
-  :DOI: 
-  :URL: 
-  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/mlsub-preprint.pdf
- :END:      
-
-cite:DolanMycroft_2016
-
-*** TODO - 1ML – Core and Modules United (F-ing First-Class Modules)
- :PROPERTIES:
-  :Custom_ID: rossberg
-  :AUTHOR: Andreas Rossberg
-  :JOURNAL: 
-  :YEAR: 
-  :VOLUME: 
-  :PAGES: 
-  :DOI: 
-  :URL: https://people.mpi-sws.org/~rossberg/1ml/1ml-jfp-draft.pdf
-  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/1ml-jfp-draft.pdf
- :END:      
-
-cite:rossberg
-
-
 ** TODO 2012 - Type-Directed Completion of Partial Expressions
  :PROPERTIES:
   :Custom_ID: perelman12_type_direc_compl_partial_expres
@@ -144,7 +111,38 @@ cite:toninho17_polym_session_funct
 Via [[https://twitter.com/graydon_pub][Graydon Hoare's Twitter feed]]
 
 
-** TODO 2014 - Counter-Factual Typing for Debugging Type Error
+** Things for Alpaca, etc
+Ideas I'd like to understand more to drive projects like [[http://alpaca-lang.org][Alpaca]] and some possible follow up work.
+
+*** TODO - 1ML – Core and Modules United (F-ing First-Class Modules)
+ :PROPERTIES:
+  :Custom_ID: rossberg
+  :AUTHOR: Andreas Rossberg
+  :JOURNAL: 
+  :YEAR: 
+  :VOLUME: 
+  :PAGES: 
+  :DOI: 
+  :URL: https://people.mpi-sws.org/~rossberg/1ml/1ml-jfp-draft.pdf
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/1ml-jfp-draft.pdf
+ :END:      
+
+cite:rossberg
+*** TODO 2016 - Polymorphism, Subtyping, and Type Inference in Mlsub
+ :PROPERTIES:
+  :Custom_ID: DolanMycroft_2016
+  :AUTHOR: Dolan
+  :JOURNAL:  
+  :YEAR: 2016
+  :VOLUME: 
+  :PAGES: 
+  :DOI: 
+  :URL: 
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/mlsub-preprint.pdf
+ :END:      
+
+cite:DolanMycroft_2016
+*** TODO 2014 - Counter-Factual Typing for Debugging Type Error
  :PROPERTIES:
   :Custom_ID: chen_erwig_2014
   :AUTHOR: Sheng Chen
@@ -157,8 +155,7 @@ Via [[https://twitter.com/graydon_pub][Graydon Hoare's Twitter feed]]
   :INTERLEAVE_PDF: ~/Documents/papers/pdfs/CF-Typing_POPL14.pdf
  :END:
 cite:chen_erwig_2014
-
-** TODO 2014 - Extending Type Inference to Variational Programs
+*** TODO 2014 - Extending Type Inference to Variational Programs
  :PROPERTIES:
   :Custom_ID: Chen:2014:ETI:2597180.2518190
   :AUTHOR: Chen, Erwig \& Walkingshaw
@@ -173,6 +170,37 @@ cite:chen_erwig_2014
 
 cite:Chen:2014:ETI:2597180.2518190
 [[pdf-view:~/Documents/papers/pdfs/VLC-TypeSystem.pdf]]
+*** TODO 2014 - F-ing modules
+ :PROPERTIES:
+  :Custom_ID: rossberg_russo_dreyer_2014
+  :AUTHOR: ROSSBERG, RUSSO \& DREYER
+  :JOURNAL: Journal of Functional Programming
+  :YEAR: 2014
+  :VOLUME: 24
+  :PAGES: 529–607
+  :DOI: 10.1017/S0956796814000264
+  :URL: 
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/f-ing-jfp.pdf
+ :END:
+
+cite:rossberg_russo_dreyer_2014
+
+*** TODO 2015 - An Introduction to Algebraic Effects and Handlers. Invited tutorial paper
+ :PROPERTIES:
+  :Custom_ID: DBLP:journals/entcs/Pretnar15
+  :AUTHOR: Matija Pretnar
+  :JOURNAL: Electr. Notes Theor. Comput. Sci.
+  :YEAR: 2015
+  :VOLUME: 319
+  :PAGES: 19--35
+  :DOI: 10.1016/j.entcs.2015.12.003
+  :URL: https://doi.org/10.1016/j.entcs.2015.12.003
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/handlers-tutorial.pdf
+ :END:
+
+cite:DBLP:journals/entcs/Pretnar15
+
+
 
 * Data
 
