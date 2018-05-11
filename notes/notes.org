@@ -441,3 +441,45 @@ cite:Neumann:2011:ECE:2002938.2002940
  :END:
 
 cite:Klonatos:2014:BEQ:2732951.2732959
+
+
+[[pdfview:~/Documents/papers/pdfs/birth-of-prolog.pdf::5][birth]
+
+* Non-interleave Papers
+Trying out org-pdfview on its own.
+#+BEGIN_SRC 
+package-install org-pdfview
+(require 'org-pdfview)
+#+END_SRC
+
+** Embedding F
+[[http://homepages.inf.ed.ac.uk/slindley/papers/embedding-f.pdf][Source]]
+[[pdfview:~/Documents/papers/pdfs/embedding-f.pdf][PDF]]
+
+** Mison: A Fast JSON Parser for Data Analytics
+[[https://www.microsoft.com/en-us/research/publication/mison-fast-json-parser-data-analytics/][Source]]
+[[pdfview:~/Documents/papers/pdfs/mison-vldb17.pdf][PDF]]
+
+** Anna: A KVS for Any Scale
+[[http://db.cs.berkeley.edu/jmh/papers/anna_ieee18.pdf][Source]]
+[[pdfview:~/Documents/papers/pdfs/anna_ieee18.pdf]]
+
+** Eon Mode: Bringing the Vertica Columnar Database to the Cloud
+[[https://www.vertica.com/wp-content/uploads/2018/05/Vertica_EON_SIGMOD_Paper.pdf][Source]]
+[[pdfview:~/Documents/papers/pdfs/Vertica_EON_SIGMOD_Paper.pdf][PDF]]
+
+** Calvin: Fast Distributed Transactions for Partitioned Database Systems
+[[http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf][Source]]
+[[pdfview:~/Documents/papers/pdfs/calvin-sigmod12.pdf]]
+
+** SCOPE: Easy and Efficient Parallel Processing of Massive Data Sets
+[[http://www.vldb.org/pvldb/1/1454166.pdf][Source]]
+[[pdfview:~/Documents/papers/pdfs/1454166.pdf]]
+
+** Computation Reuse in Analytics Job Service at Microsoft
+[[https://www.microsoft.com/en-us/research/uploads/prod/2018/03/cloudviews-sigmod2018.pdf][Source]]
+[[pdfview:~/Documents/papers/pdfs/cloudviews-sigmod2018.pdf]]
+
+** Selecting Subexpressions to Materialize at Datacenter Scale
+[[https://www.microsoft.com/en-us/research/uploads/prod/2018/03/bigsubs-vldb2018.pdf][Source]]
+[[pdfview:~/Documents/papers/pdfs/bigsubs-vldb2018.pdf]]
