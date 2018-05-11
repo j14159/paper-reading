@@ -48,39 +48,6 @@ cite:aDitya91_increm
 
 cite:erdweg2015co
 
-
-** Algebraic, Decidable Inference
-*** TODO 2016 - Polymorphism, Subtyping, and Type Inference in Mlsub
- :PROPERTIES:
-  :Custom_ID: DolanMycroft_2016
-  :AUTHOR: Dolan
-  :JOURNAL:  
-  :YEAR: 2016
-  :VOLUME: 
-  :PAGES: 
-  :DOI: 
-  :URL: 
-  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/mlsub-preprint.pdf
- :END:      
-
-cite:DolanMycroft_2016
-
-*** TODO - 1ML – Core and Modules United (F-ing First-Class Modules)
- :PROPERTIES:
-  :Custom_ID: rossberg
-  :AUTHOR: Andreas Rossberg
-  :JOURNAL: 
-  :YEAR: 
-  :VOLUME: 
-  :PAGES: 
-  :DOI: 
-  :URL: https://people.mpi-sws.org/~rossberg/1ml/1ml-jfp-draft.pdf
-  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/1ml-jfp-draft.pdf
- :END:      
-
-cite:rossberg
-
-
 ** TODO 2012 - Type-Directed Completion of Partial Expressions
  :PROPERTIES:
   :Custom_ID: perelman12_type_direc_compl_partial_expres
@@ -144,7 +111,38 @@ cite:toninho17_polym_session_funct
 Via [[https://twitter.com/graydon_pub][Graydon Hoare's Twitter feed]]
 
 
-** TODO 2014 - Counter-Factual Typing for Debugging Type Error
+** Things for Alpaca, etc
+Ideas I'd like to understand more to drive projects like [[http://alpaca-lang.org][Alpaca]] and some possible follow up work.
+
+*** TODO - 1ML – Core and Modules United (F-ing First-Class Modules)
+ :PROPERTIES:
+  :Custom_ID: rossberg
+  :AUTHOR: Andreas Rossberg
+  :JOURNAL: 
+  :YEAR: 
+  :VOLUME: 
+  :PAGES: 
+  :DOI: 
+  :URL: https://people.mpi-sws.org/~rossberg/1ml/1ml-jfp-draft.pdf
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/1ml-jfp-draft.pdf
+ :END:      
+
+cite:rossberg
+*** TODO 2016 - Polymorphism, Subtyping, and Type Inference in Mlsub
+ :PROPERTIES:
+  :Custom_ID: DolanMycroft_2016
+  :AUTHOR: Dolan
+  :JOURNAL:  
+  :YEAR: 2016
+  :VOLUME: 
+  :PAGES: 
+  :DOI: 
+  :URL: 
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/mlsub-preprint.pdf
+ :END:      
+
+cite:DolanMycroft_2016
+*** TODO 2014 - Counter-Factual Typing for Debugging Type Error
  :PROPERTIES:
   :Custom_ID: chen_erwig_2014
   :AUTHOR: Sheng Chen
@@ -156,8 +154,54 @@ Via [[https://twitter.com/graydon_pub][Graydon Hoare's Twitter feed]]
   :URL: http://web.engr.orst.edu/~erwig/papers/CF-Typing_POPL14.pdf
   :INTERLEAVE_PDF: ~/Documents/papers/pdfs/CF-Typing_POPL14.pdf
  :END:
-
 cite:chen_erwig_2014
+*** TODO 2014 - Extending Type Inference to Variational Programs
+ :PROPERTIES:
+  :Custom_ID: Chen:2014:ETI:2597180.2518190
+  :AUTHOR: Chen, Erwig \& Walkingshaw
+  :JOURNAL: ACM Trans. Program. Lang. Syst.
+  :YEAR: 2014
+  :VOLUME: 36
+  :PAGES: 1:1--1:54
+  :DOI: 10.1145/2518190
+  :URL: http://doi.acm.org/10.1145/2518190
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/VLC-TypeSystem.pdf
+ :END:
+
+cite:Chen:2014:ETI:2597180.2518190
+[[pdf-view:~/Documents/papers/pdfs/VLC-TypeSystem.pdf]]
+*** TODO 2014 - F-ing modules
+ :PROPERTIES:
+  :Custom_ID: rossberg_russo_dreyer_2014
+  :AUTHOR: ROSSBERG, RUSSO \& DREYER
+  :JOURNAL: Journal of Functional Programming
+  :YEAR: 2014
+  :VOLUME: 24
+  :PAGES: 529–607
+  :DOI: 10.1017/S0956796814000264
+  :URL: 
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/f-ing-jfp.pdf
+ :END:
+
+cite:rossberg_russo_dreyer_2014
+
+*** TODO 2015 - An Introduction to Algebraic Effects and Handlers. Invited tutorial paper
+ :PROPERTIES:
+  :Custom_ID: DBLP:journals/entcs/Pretnar15
+  :AUTHOR: Matija Pretnar
+  :JOURNAL: Electr. Notes Theor. Comput. Sci.
+  :YEAR: 2015
+  :VOLUME: 319
+  :PAGES: 19--35
+  :DOI: 10.1016/j.entcs.2015.12.003
+  :URL: https://doi.org/10.1016/j.entcs.2015.12.003
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/handlers-tutorial.pdf
+ :END:
+
+cite:DBLP:journals/entcs/Pretnar15
+
+
+
 * Data
 
 ** Data Flow
@@ -393,7 +437,6 @@ cite:DBLP:journals/corr/abs-cs-0611004
 cite:DBLP:conf/hopl/1993
 
 * Software Engineering
-
 ** TODO 2001 - Robustness in complex systems
  :PROPERTIES:
   :Custom_ID: gribble2001robustness
@@ -404,10 +447,9 @@ cite:DBLP:conf/hopl/1993
   :PAGES: 21--26
   :DOI: 
   :URL: 
- :END:
+ :END:      
 
 cite:gribble2001robustness
->>>>>>> Stashed changes
 
 * Databases
 
@@ -442,8 +484,21 @@ cite:Neumann:2011:ECE:2002938.2002940
 
 cite:Klonatos:2014:BEQ:2732951.2732959
 
+* Distributed Systems
+** TODO 1985 - Distributed Snapshots: Determining Global States of a Distributed System
+ :PROPERTIES:
+  :Custom_ID: distributed-snapshots-determining-global-states-distributed-system
+  :AUTHOR: Chandy \& Lamport
+  :JOURNAL: ACM Transactions on Computer Systems
+  :YEAR: 1985
+  :VOLUME: 3/1
+  :PAGES: 63-75
+  :DOI: 
+  :URL: https://www.microsoft.com/en-us/research/publication/distributed-snapshots-determining-global-states-distributed-system/
+  :INTERLEAVE_PDF: ~/Documents/papers/pdfs/chandy.pdf
+ :END:
 
-[[pdfview:~/Documents/papers/pdfs/birth-of-prolog.pdf::5][birth]
+cite:distributed-snapshots-determining-global-states-distributed-system
 
 * Non-interleave Papers
 Trying out org-pdfview on its own.
