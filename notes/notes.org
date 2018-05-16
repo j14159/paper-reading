@@ -538,3 +538,8 @@ package-install org-pdfview
 ** Selecting Subexpressions to Materialize at Datacenter Scale
 [[https://www.microsoft.com/en-us/research/uploads/prod/2018/03/bigsubs-vldb2018.pdf][Source]]
 [[pdfview:~/Documents/papers/pdfs/bigsubs-vldb2018.pdf]]
+
+** Building Efficient Query Engines in a High-Level Language
+[[http://www.vldb.org/pvldb/vol7/p853-klonatos.pdf]]
+[[pdfview:~/Documents/papers/pdfs/p853-klonatos.pdf]]
+
