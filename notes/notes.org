@@ -543,3 +543,47 @@ package-install org-pdfview
 [[http://www.vldb.org/pvldb/vol7/p853-klonatos.pdf]]
 [[pdfview:~/Documents/papers/pdfs/p853-klonatos.pdf]]
 
+** A Short Introduction to Systems F and Fω
+[[http://babel.ls.fi.upm.es/~pablo/Papers/Notes/f-fw.pdf]]
+
+** How OCaml type checker works -- or what polymorphism and garbage collection have in common
+:CUSTOM_ID: how-ocaml-type-checker-works
+#+BEGIN_QUOTE
+#+END_QUOTE
+[[http://okmij.org/ftp/ML/generalization.html]]
+
+** Objects and Aspects: Row Polymorphism
+[[https://www.cs.cmu.edu/~neelk/rows.pdf]]
+
+** Understanding and Evolving the ML Module System (Thesis Summary)
+[[https://pdfs.semanticscholar.org/4691/26957c42e1377fb39db04f2cc9af182dbcc6.pdf]]
+
+Talks about what "sealing" and translucency are.
+
+** Focusing on Pattern Matching
+[[https://www.cl.cam.ac.uk/~nk480/pattern-popl09.pdf]]
+
+** Extension of ML Type System with a sorted equational theory on types
+Referenced by Oleg's [[#how-ocaml-type-checker-works][How OCaml type checker works]]
+
+[[https://www.classes.cs.uchicago.edu/archive/2007/spring/32001-1/papers/eq-theory-on-types.pdf]]
+
+** Fungi: A typed, functional language for programs that dynamically name their own cached dependency graphs
+
+[[http://matthewhammer.org/fungi-lang-2018.pdf]]
+Via https://twitter.com/graydon_pub
+
+** An Introduction to Algebraic Effects and Handlers
+[[http://www.eff-lang.org/handlers-tutorial.pdf]]
+[[pdfview:~/Documents/papers/pdfs/handlers-tutorial.pdf]]
+
+[[https://github.com/ocamllabs/ocaml-effects-tutorial#1-algebraic-effects-and-handlers][Concurrent Programming with Effect Handlers]], OCaml intro.
+
+** Algebraic effects for Functional Programming
+[[https://www.microsoft.com/en-us/research/publication/algebraic-effects-for-functional-programming/]]
+[[pdfview:~/Documents/papers/pdfs/algeff-tr-2016-v3.pdf]]
+
+From Daan Leijen.
+
+*** TODO Leijen has done a bunch of work with row types, iirc some module system work?
+
