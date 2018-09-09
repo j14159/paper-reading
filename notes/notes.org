@@ -596,6 +596,9 @@ A sub-reading list in prelude to starting on some Bad Ideas.
 **** HHVM JIT: A Profile-Guided, Region-Based Compiler for PHP and Hack
 [[https://research.fb.com/publications/hhvm-jit-a-profile-guided-region-based-compiler-for-php-and-hack/][Home]]
 [[https://research.fb.com/wp-content/uploads/2018/04/hhvm-jit-a-profile-guided-region-based-compiler-for-php-and-hack.pdf][Source]]
+
+More:  [[https://hhvm.com/blog/2017/03/23/concurrent-jit-compilation.html][Concurrent JIT Compilation]]
+
 **** Self-Optimizing AST Interpreters (Truffle)
 [[http://lafo.ssw.uni-linz.ac.at/papers/2012_DLS_SelfOptimizingASTInterpreters.pdf][Source]]
 **** An Object Storage Model for the Truffle Language Implementation Framework
