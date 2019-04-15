@@ -7,7 +7,8 @@ Stuff to read about runtimes and VM possibilities.
 **** Futamura projections
 [[https://pdfs.semanticscholar.org/a3e8/8aa2505c1f4e7f176b1afa467c60fd30bdac.pdf][Partial Evaluation of Computation Process—An Approach to a Compiler-Compiler]]
 [[https://arxiv.org/pdf/1611.09906.pdf][Revisiting the Futamura Projections:A Diagrammatic Approach]]
-
+[[http://publications.lib.chalmers.se/records/fulltext/256252/256252.pdf][Typing the Untypeable in Erlang]]
+[[https://www.itu.dk/~sestoft/pebook/pebook.html][Partial Evaluation and Automatic Program Generation]]
 *** Some Implementation
 **** Stuff from Self
 Comes up a bunch in Truffle and HHVM.  What else follows on to this work?
