@@ -573,3 +573,42 @@ Referenced by Oleg's [[#how-ocaml-type-checker-works][How OCaml type checker wor
 [[http://matthewhammer.org/fungi-lang-2018.pdf]]
 Via https://twitter.com/graydon_pub
 
+
+** SIMD Intrinsics on Managed Language Runtimes
+https://astojanov.github.io/publications/preprint/004_cgo18-simd.pdf
+
+** Generalized Data Structure Synthesis
+https://homes.cs.washington.edu/~mernst/pubs/generalized-synthesis-icse2018.pdf
+
+** Resource Aware ML
+http://www.raml.co/interface.html
+
+** Behavioural Types for Actor Systems
+https://arxiv.org/abs/1206.1687
+
+** The Gamma Database Machine Project
+http://pages.cs.wisc.edu/~dewitt/includes/paralleldb/ieee90.pdf
+
+** Life beyond Distributed Transactions:  an Apostate’s Opinion
+http://adrianmarriott.net/logosroot/papers/LifeBeyondTxns.pdf
+
+** Singly  typed  actors  in  Agda
+(Master's thesis)
+https://www.dropbox.com/s/lczrcqu2m9p6osv/Master_Thesis.pdf?dl=0
+
+** PLDI '18
+http://www.sigplan.org/OpenTOC/pldi18.html
+
+** Sigmod 2018
+https://sigmod2018.org/program_sigmod.shtml
+
+
+** Program Synthesis from Polymorphic Refinement Types
+http://people.csail.mit.edu/polikarn/publications/pldi16.pdf
+
+** λir : A language with intensional receive
+https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=7205&context=etd
+
+** Mailbox Types for Unordered Interactions
+https://arxiv.org/pdf/1801.04167.pdf
+
