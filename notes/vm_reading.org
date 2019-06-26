@@ -1,0 +1,53 @@
+* VMs
+Stuff to read about runtimes and VM possibilities.
+
+** JIT
+
+*** Some theory?
+**** Futamura projections
+[[https://pdfs.semanticscholar.org/a3e8/8aa2505c1f4e7f176b1afa467c60fd30bdac.pdf][Partial Evaluation of Computation Process—An Approach to a Compiler-Compiler]]
+[[https://arxiv.org/pdf/1611.09906.pdf][Revisiting the Futamura Projections:A Diagrammatic Approach]]
+[[http://publications.lib.chalmers.se/records/fulltext/256252/256252.pdf][Typing the Untypeable in Erlang]]
+[[https://www.itu.dk/~sestoft/pebook/pebook.html][Partial Evaluation and Automatic Program Generation]]
+*** Some Implementation
+**** Stuff from Self
+Comes up a bunch in Truffle and HHVM.  What else follows on to this work?
+***** One compiler: deoptimization to optimized code
+[[https://dl.acm.org/citation.cfm?doid=3033019.3033025][ACM Source]]
+***** Optimizing Dynamically-Dispatched Calls with Run-Time Type Feedback
+[[https://www.cs.ucsb.edu/~urs/oocsb/papers/pldi94.pdf][Source]]
+***** Debugging Optimized Code with Dynamic Deoptimization
+[[http://www.cs.ucsb.edu/~urs/oocsb/papers/pldi92.pdf][Source]]
+**** HHVM JIT: A Profile-Guided, Region-Based Compiler for PHP and Hack
+[[https://research.fb.com/publications/hhvm-jit-a-profile-guided-region-based-compiler-for-php-and-hack/][Home]]
+[[https://research.fb.com/wp-content/uploads/2018/04/hhvm-jit-a-profile-guided-region-based-compiler-for-php-and-hack.pdf][Source]]
+
+More:  [[https://hhvm.com/blog/2017/03/23/concurrent-jit-compilation.html][Concurrent JIT Compilation]]
+
+**** Self-Optimizing AST Interpreters (Truffle)
+[[http://lafo.ssw.uni-linz.ac.at/papers/2012_DLS_SelfOptimizingASTInterpreters.pdf][Source]]
+**** An Object Storage Model for the Truffle Language Implementation Framework
+[[https://chrisseaton.com/rubytruffle/pppj14-om/pppj14-om.pdf][Source]]
+**** One VM to Rule Them All
+[[http://lafo.ssw.uni-linz.ac.at/papers/2013_Onward_OneVMToRuleThemAll.pdf][Source]]
+**** Practical Partial Evaluation for High-Performance Dynamic Language Runtimes
+[[https://chrisseaton.com/rubytruffle/pldi17-truffle/pldi17-truffle.pdf][Source]]
+** Clustering, Networking
+*** Partisan: Enabling Cloud-Scale Erlang Applications
+[[https://arxiv.org/abs/1802.02652][arXiv source]]
+** Garbage Collection and Memory
+*** One Pass Real-Time Generational Mark-Sweep Garbage Collection
+1995 paper
+[[http://citeseerx.ist.psu.edu/viewdoc/summary;jsessionid=0397570F246B379399EB5A3FDDFF2C5E?doi=10.1.1.42.7791][CiteSeer source]]
+[[http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=8F3E31F1F87009E032F2500EFB3D13F1?doi=10.1.1.42.7791&rep=rep1&type=pdf][CiteSeer cached PDF source]]
+
+Additional blogs:
+- [[https://prog21.dadgum.com/16.html][Garbage Collection in Erlang]]
+- [[https://hamidreza-s.github.io/erlang%20garbage%20collection%20memory%20layout%20soft%20realtime/2015/08/24/erlang-garbage-collection-details-and-why-it-matters.html][Erlang Garbage Collection Details and Why It Matters]]
+*** Efficient Memory Management for Message-Passing Concurrency Part I: Single-threaded execution
+[[http://user.it.uu.se/~jesperw/publications/Wilhelmsson_lic.pdf][Source]]
+Static message analysis to see if a message /should/ end up in the shared heap.  AST node profiling to do this?  Breaks in many situations if history is not kept.
+** Functions, etc
+*** Debunking the 'Expensive Procedure Call' Myth, or, Procedure Call Implementations Considered Harmful, or, Lambda: The Ultimate GOTO
+[[https://dspace.mit.edu/handle/1721.1/5753][Home]]
+[[https://dspace.mit.edu/bitstream/handle/1721.1/5753/AIM-443.pdf?sequence=2][Source]]
