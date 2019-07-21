@@ -1,6 +1,33 @@
+
 * VMs
 Stuff to read about runtimes and VM possibilities.
 
+
+** Interpretation
+
+*** [[http://www.cs.toronto.edu/~matz/dissertation/matzDissertation-latex2html/node6.html][3 Dispatch techniques]]
+Direct threading, context problem, all in brief.
+
+*** [[http://www.cs.toronto.edu/~matz/pubs/demkea_context.pdf][Context Threading: A flexible and efficient dispatch technique for virtualmachine interpreters]]
+More direct threading but branch-predictor friendly.
+2005
+
+*** [[https://www.scss.tcd.ie/David.Gregg/papers/toplas05.pdf][Optimizing Indirect Branch Prediction Accuracyin Virtual Machine Interpreters]]
+Has a summary section for some basic interpreter efficiency techniques.
+2007
+
+
+*** [[https://hal.inria.fr/hal-01100647/document][Branch Prediction and the Performance of Interpreters -Don’t Trust Folklore]]
+Maybe the penalties in a switch-statement interpreter are no longer so severe.
+2015
+
+*** [[https://www.researchgate.net/profile/Vanderson_Rosario2/publication/328314399_A_Methodology_for_Optimization_of_Interpreters/links/5bc5e13992851cae21a830db/A-Methodology-for-Optimization-of-Interpreters.pdf][A Methodology for Optimization of Interpreter]]
+Not sure if this is necessary, but might be worth digging into possible ways to analyze and improve things.
+2018
+
+*** [[http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=5470892&fileOId=5470933][A Tracing JIT Compiler for Erlang using LLVM]]
+Master's thesis.
+2015
 ** JIT
 
 *** Some theory?
