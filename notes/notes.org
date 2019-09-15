@@ -617,6 +617,10 @@ https://arxiv.org/pdf/1801.04167.pdf
 
 [[https://github.com/ocamllabs/ocaml-effects-tutorial#1-algebraic-effects-and-handlers][Concurrent Programming with Effect Handlers]], OCaml intro.
 
+** What Is Algebraic About Algebraic Effects And Handlers?
+https://arxiv.org/pdf/1807.05923.pdf
+
+Looks a little math-heavy but interesting.
 ** Algebraic effects for Functional Programming
 [[https://www.microsoft.com/en-us/research/publication/algebraic-effects-for-functional-programming/]]
 [[pdfview:~/Documents/papers/pdfs/algeff-tr-2016-v3.pdf]]
