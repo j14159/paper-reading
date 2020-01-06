@@ -1,0 +1,7 @@
+* 2020-01-06 In Progress
+- [[http://babel.ls.fi.upm.es/~pablo/Papers/Notes/f-fw.pdf][A Short Introduction to Systems F and F-omega]]
+- [[https://www.cs.rice.edu/~javaplt/411/11-fall/Readings/IntroToSystemF.pdf][An Introduction to System F]]
+- [[http://www.cs.cmu.edu/~aldrich/courses/819/papers/row-poly.pdf][A Polymorphic Type System for Extensible Records and Variants]]
+- [[https://www.cl.cam.ac.uk/teaching/1415/L28/rows.pdf][Row Polymorphism]]
+- [[http://bibliography.selflanguage.org/_static/implementation.pdf][An Efficient Implementation of SELF,a Dynamically-Typed Object-Oriented Language Based on Prototypes]]
+

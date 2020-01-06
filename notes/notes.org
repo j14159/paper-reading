@@ -554,6 +554,7 @@ package-install org-pdfview
 
 ** Objects and Aspects: Row Polymorphism
 [[https://www.cs.cmu.edu/~neelk/rows.pdf]]
+https://www.cs.cmu.edu/~aldrich/courses/819/slides/rows.pdf
 
 ** Understanding and Evolving the ML Module System (Thesis Summary)
 [[https://pdfs.semanticscholar.org/4691/26957c42e1377fb39db04f2cc9af182dbcc6.pdf]]
@@ -629,6 +630,12 @@ From Daan Leijen.
 
 *** TODO Leijen has done a bunch of work with row types, iirc some module system work?
 
+
+** Survey on bidirectional typing
+https://semantic-domain.blogspot.com/2019/08/new-draft-paper-survey-on-bidirectional.html
+
+** Bidirectional typing "tutorial"
+http://www.davidchristiansen.dk/tutorials/bidirectional.pdf
 ** 1ML
 [[pdfview:~/Documents/papers/pdfs/1ml-jfp-draft.pdf]]
 
@@ -676,4 +683,8 @@ Static message analysis to see if a message /should/ end up in the shared heap. 
 **** Debunking the 'Expensive Procedure Call' Myth, or, Procedure Call Implementations Considered Harmful, or, Lambda: The Ultimate GOTO
 [[https://dspace.mit.edu/handle/1721.1/5753][Home]]
 [[https://dspace.mit.edu/bitstream/handle/1721.1/5753/AIM-443.pdf?sequence=2][Source]]
-
+** Rows and typing
+*** From [[https://www.cl.cam.ac.uk/teaching/1415/L28/][U of Cambridge's Advanced FP course]]
+https://www.cl.cam.ac.uk/teaching/1415/L28/rows.pdf
+*** A polymorphic type system for extensible records and variants
+http://www.cs.cmu.edu/~aldrich/courses/819/papers/row-poly.pdf
