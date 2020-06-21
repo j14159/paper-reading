@@ -636,6 +636,10 @@ https://semantic-domain.blogspot.com/2019/08/new-draft-paper-survey-on-bidirecti
 
 ** Bidirectional typing "tutorial"
 http://www.davidchristiansen.dk/tutorials/bidirectional.pdf
+
+** Lecture notes on bidirectional typing
+http://www.cs.cmu.edu/~fp/courses/15312-f04/handouts/15-bidirectional.pdf
+
 ** 1ML
 [[pdfview:~/Documents/papers/pdfs/1ml-jfp-draft.pdf]]
 
