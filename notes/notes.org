@@ -640,6 +640,11 @@ http://www.davidchristiansen.dk/tutorials/bidirectional.pdf
 ** Lecture notes on bidirectional typing
 http://www.cs.cmu.edu/~fp/courses/15312-f04/handouts/15-bidirectional.pdf
 
+** "Moldable Development"
+Talk from Tudor Gîrba :  https://www.youtube.com/watch?v=Pot9GnHFOVU&feature=youtu.be
+
+Worrydream links?
+
 ** 1ML
 [[pdfview:~/Documents/papers/pdfs/1ml-jfp-draft.pdf]]
 
