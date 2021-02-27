@@ -78,3 +78,6 @@ Static message analysis to see if a message /should/ end up in the shared heap. 
 *** Debunking the 'Expensive Procedure Call' Myth, or, Procedure Call Implementations Considered Harmful, or, Lambda: The Ultimate GOTO
 [[https://dspace.mit.edu/handle/1721.1/5753][Home]]
 [[https://dspace.mit.edu/bitstream/handle/1721.1/5753/AIM-443.pdf?sequence=2][Source]]
+** Containers, micro VMs, etc
+Pre-print:  https://arxiv.org/pdf/2102.12892.pdf
+Found from:  https://twitter.com/MarcJBrooker/status/1365379394206801920?s=20
