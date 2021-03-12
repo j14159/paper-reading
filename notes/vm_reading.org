@@ -59,6 +59,8 @@ More:  [[https://hhvm.com/blog/2017/03/23/concurrent-jit-compilation.html][Concu
 [[http://lafo.ssw.uni-linz.ac.at/papers/2013_Onward_OneVMToRuleThemAll.pdf][Source]]
 **** Practical Partial Evaluation for High-Performance Dynamic Language Runtimes
 [[https://chrisseaton.com/rubytruffle/pldi17-truffle/pldi17-truffle.pdf][Source]]
+**** Simple and Effective Type Check Removalthrough Lazy Basic Block Versioning
+https://arxiv.org/pdf/1411.0352.pdf
 ** Clustering, Networking
 *** Partisan: Enabling Cloud-Scale Erlang Applications
 [[https://arxiv.org/abs/1802.02652][arXiv source]]
